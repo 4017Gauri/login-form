@@ -1,0 +1,11 @@
+*{
+ text-align:center;
+background-image:linear-gradient(pink,white,lavender,white,pink);
+width:30%
+margin: auto;
+margin-right:auto;
+}
+button{
+background-color:pink;
+}
+
